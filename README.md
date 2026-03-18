@@ -6,15 +6,6 @@
 
 ---
 
-```js
-const night = {
-  role: 'AI 应用产品工程师',
-  tools: ['Prompt Engineering', 'JavaScript', 'React Native', 'CSS'],
-  current: '用 AI 把想法变成可运行的产品',
-  fact: '所有项目均以 AI 辅助开发为核心工作流'
-};
-```
-
 <details>
 <summary>📦 我做过的东西</summary>
 <br>
